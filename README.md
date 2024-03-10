@@ -6,7 +6,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,vue,vuetify,ts,express,html,css,flask,dart,flutter,php,mysql,py,swift,processing,pinia,firebase,docker,anaconda,androidstudio,arduino,matlab,blender,pr,ai,ps,figma,vscode,github)](https://skillicons.dev)
 
 ### Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkn-fms&margin-w=5)](https://github.com/tkn-fms/)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkn-fms&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tkn-fms" />
+</p>
 
 
 <!--
