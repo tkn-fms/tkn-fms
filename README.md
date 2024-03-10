@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## About Sayaka Takano
+
+### </> my skills
+[![My Skills](https://skillicons.dev/icons?i=js,vue,vuetify,ts,express,html,css,flask,dart,flutter,php,mysql,py,swift,processing,pinia,firebase,docker,anaconda,androidstudio,arduino,matlab,blender,pr,ai,ps,figma,vscode,github)](https://skillicons.dev)
+
+
 <!--
 **tkn-fms/tkn-fms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
